@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 77226577333020802}
   - component: {fileID: 77226577333020805}
   m_Layer: 0
-  m_Name: WaterFlockAgent
+  m_Name: DebrisFlockAgent
   m_TagString: Water
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -61,7 +61,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bf1d16ae715e1ba4c88a737872d88446, type: 2}
+  - {fileID: 2100000, guid: bed7de0864e1def44827100c7b53a616, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

@@ -7,8 +7,9 @@ public class Flock : MonoBehaviour
     public FlockAgent agentPrefab;
     List<FlockAgent> agents = new List<FlockAgent>();
     public FlockBehaviour behaviour;
+    public Vector3 Spawn;
 
-    [Range(10, 500)]
+    [Range(10, 750)]
     public int startingCount = 250;
     const float agentDensity = 0.08f;
 
@@ -34,7 +35,7 @@ public class Flock : MonoBehaviour
 
         for (int i = 0; i < startingCount; i ++)
         {
-            FlockAgent newAgent = Instantiate(agentPrefab, Random.insideUnitSphere * startingCount * agentDensity, Quaternion.Euler(Vector3.up * Random.Range(0f, 360f)), transform);
+            FlockAgent newAgent = Instantiate(agentPrefab, Random.insideUnitSphere * startingCount * agentDensity + Spawn, Quaternion.Euler(Vector3.up * Random.Range(0f, 360f)), transform);
             newAgent.name = "Agent " + i;
             agents.Add(newAgent);
         }
@@ -53,6 +54,7 @@ public class Flock : MonoBehaviour
             }
             agent.Move(move);
         }
+
     }
 
     List<Transform> GetNearbyObjects(FlockAgent agent)
@@ -68,4 +70,6 @@ public class Flock : MonoBehaviour
         }
         return context;
     }
+
+ 
 }

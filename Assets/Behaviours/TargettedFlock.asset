@@ -10,13 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 32d733624546483428e69f03c96a6f46, type: 3}
-  m_Name: DefaultFlockBehaviour
+  m_Name: TargettedFlock
   m_EditorClassIdentifier: 
   behaviours:
   - {fileID: 11400000, guid: cba82c11b0c72634d9e3dc85ebb1a5f3, type: 2}
   - {fileID: 11400000, guid: 2eaf6ceebe21b494cbcd43d40e1e4e4f, type: 2}
   - {fileID: 11400000, guid: b3a8ca22b326a27438fb99f307d2e75e, type: 2}
+  - {fileID: 11400000, guid: 568ca585d31e3934b8350b34b17b9ac5, type: 2}
   weights:
   - 4
   - 1
+  - 2
   - 2
