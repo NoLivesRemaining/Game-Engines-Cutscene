@@ -11,4 +11,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InsideXcom1.unity
     guid: f4da50e3831f54b4fb657e172bc0d27f
+  - enabled: 1
+    path: Assets/Scenes/Under Mothership Scene.unity
+    guid: f42a49e302279c94c82b4b84fbfd1e70
+  - enabled: 1
+    path: Assets/Scenes/InsideMothershipSecondScene.unity
+    guid: 31f5932f170091e4a8af4a9699236dab
+  - enabled: 1
+    path: Assets/Scenes/CityScene.unity
+    guid: 3c4c1c9dcf20f7648b09ff25be4dabd6
+  - enabled: 1
+    path: Assets/Scenes/OutsideMothership.unity
+    guid: 478597b4c9824f64ba3c25ea6301a581
+  - enabled: 1
+    path: Assets/Scenes/InsideXcom2.unity
+    guid: ef2fe8ad6389fa3448ac127a8fc32935
+  - enabled: 1
+    path: Assets/Scenes/InsideMotherShipSceneThree.unity
+    guid: 012722505230981478919f21adbd0280
+  - enabled: 1
+    path: Assets/Scenes/LiftingMothership.unity
+    guid: 90e75429d6249ae459bac0e28975f646
   m_configObjects: {}
