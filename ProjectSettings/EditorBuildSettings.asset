@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InsideMothership.unity
+    guid: 81f4512bc9e57e84f841d9bc3ab69fed
+  - enabled: 1
+    path: Assets/Scenes/InsideXcom1.unity
+    guid: f4da50e3831f54b4fb657e172bc0d27f
   m_configObjects: {}
