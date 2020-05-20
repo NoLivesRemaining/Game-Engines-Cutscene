@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LiftingMothership.unity
     guid: 90e75429d6249ae459bac0e28975f646
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 27248da62897f8f4faef451f92c6eb5b
   m_configObjects: {}

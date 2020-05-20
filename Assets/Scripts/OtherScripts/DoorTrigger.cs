@@ -19,7 +19,7 @@ public class DoorTrigger : MonoBehaviour
 
     private void Update()
     {
-        if (Animation.close == true)
+        if (Animation.point == true)
         {
             anim1.SetTrigger("Leap");
             anim2.SetTrigger("Leap");

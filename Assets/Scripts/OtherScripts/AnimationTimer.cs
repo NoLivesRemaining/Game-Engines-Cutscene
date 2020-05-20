@@ -23,7 +23,7 @@ public class AnimationTimer : MonoBehaviour
             close = true;
         }
 
-        if (PointTime <= 1)
+        if (PointTime <= 2)
         {
             point = true;
         }

@@ -214,7 +214,7 @@ MonoBehaviour:
   Spawn: {x: 36.89999, y: 36.2, z: 354.6}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &313513637
@@ -400,7 +400,7 @@ MonoBehaviour:
   Spawn: {x: 133.5, y: 36.2, z: 210}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &418173757
@@ -452,7 +452,7 @@ MonoBehaviour:
   Spawn: {x: 114.3, y: 36.2, z: 364.2}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &567856890
@@ -597,7 +597,7 @@ MonoBehaviour:
   Spawn: {x: 187, y: 0, z: 213.2}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &601964128
@@ -742,7 +742,7 @@ MonoBehaviour:
   Spawn: {x: 243.4, y: 36.2, z: 220.9}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &1138807351
@@ -794,7 +794,7 @@ MonoBehaviour:
   Spawn: {x: 123.5, y: 0, z: 289.8}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &1171641075
@@ -846,7 +846,7 @@ MonoBehaviour:
   Spawn: {x: 142.7, y: 0, z: 135.6}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &1185605070
@@ -898,7 +898,7 @@ MonoBehaviour:
   Spawn: {x: 137.2, y: 0, z: 58.3}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &1310753484
@@ -950,7 +950,7 @@ MonoBehaviour:
   Spawn: {x: 65.3, y: 0, z: 126}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &1459967302
@@ -1324,7 +1324,7 @@ MonoBehaviour:
   Spawn: {x: 91.6, y: 0, z: 208.8}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &1611499313
@@ -1654,7 +1654,7 @@ MonoBehaviour:
   Spawn: {x: 234.2, y: 0, z: 295.5}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &1809878657
@@ -1706,7 +1706,7 @@ MonoBehaviour:
   Spawn: {x: 264.9, y: 0, z: 157.2}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &1836176402
@@ -1944,7 +1944,7 @@ MonoBehaviour:
   Spawn: {x: 56.1, y: 36.2, z: 200.4}
   startingCount: 200
   driveFactor: 10
-  maxSpeed: 40
+  maxSpeed: 30
   neighbourRadius: 10
   avoidanceRadiusMultiplier: 1
 --- !u!1 &2008362120

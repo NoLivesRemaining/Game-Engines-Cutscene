@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class sceneMoveTimer : MonoBehaviour
 {
-    public float changeScene = 10f;
+    public float changeScene;
 
     private void Update()
     {
